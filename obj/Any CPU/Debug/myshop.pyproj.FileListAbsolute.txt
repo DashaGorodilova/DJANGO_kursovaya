@@ -1,0 +1,2 @@
+C:\Users\dasha\OneDrive\Рабочий стол\MTUCI\ТИМП\Беспалевно\obj\Any CPU\Debug\myshop.pyproj.SuggestedBindingRedirects.cache
+C:\Users\dasha\OneDrive\Рабочий стол\MTUCI\ТИМП\Беспалевно\obj\Any CPU\Debug\myshop.pyproj.CoreCompileInputs.cache
